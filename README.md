@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h1 align="center">Lakshmi Srivardhan Tallapaneni</h1>
+<h1 align="center">Sravan Kumar Yarraguntla</h1>
 
 <h3 align="center">
 Data Science • Machine Learning • Data Analytics • Software Engineering • Backend Development
